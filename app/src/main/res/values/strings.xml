@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tosast_fo_Log</string>
+    <string name="buttlog1" >кнопка1</string>
+    <string name="buttlog2" >кнопка2</string>
+    <string name="buttlog3" >кнопка3</string>
+    <string name="Logfragment">Текст</string>
+</resources>
